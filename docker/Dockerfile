@@ -1,6 +1,6 @@
 FROM debian:stable
 
-LABEL maintainer "Jared Galloway <jgallowa@fredhutch.rg>" \
+LABEL maintainer "Jared Galloway <jgallowa@fredhutch.org>" \
       version "1.0" \
       description "Common PhIP-Seq Workflows"
 
