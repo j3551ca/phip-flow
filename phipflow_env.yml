@@ -1,0 +1,7 @@
+name: phipflow
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+  - r
+prefix: /home/jess.cal/.conda/envs/phipflow
