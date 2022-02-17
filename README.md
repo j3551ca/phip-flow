@@ -19,7 +19,7 @@ various linux flavors
 
 Launch the pipeline execution with the following command: 
 
-    nextflow run matsengrp/phip-flow -profile docker
+    nextflow run matsengrp/phip-flow -profile {docker|conda}
 
 Note: the [Dockerfile](docker/Dockerfile) contains all the required dependencies. 
 Add the `-profile docker` to enable the containerised execution to the 
